@@ -1,2 +1,2 @@
 This is a personal project.
-Each files in this repository answer various java questions.
+Each file in this repository answers various java questions.
